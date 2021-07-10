@@ -3,7 +3,7 @@
 ##  summary : junior developer.im interested in front-end and cybersecurity.
 ## skills: React, JavaScript , HTML , CSS
 ## Latest code : [rsschool-cv](https://github.com/natachikhinashvili/rsschool-cv)
-## Experience : random quote machine,Clock,calculator,drum machine,markdown previewer.
+## Experience : random quote machine,Clock,calculator,drum machine,markdown previewer,survey
 ## Education : 
 - FreeCodeCamp
     - Responsive web design certification
